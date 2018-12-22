@@ -1,0 +1,2 @@
+# MagicTheGathering
+Magic App Repository
